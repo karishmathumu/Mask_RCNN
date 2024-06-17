@@ -1,7 +1,7 @@
-pip install opencv-python /n
+pip install opencv-python
 python
 import cv2 as cv
-print(cv.__Version__)
+print(cv.__version__)
 4.10.0
 exit()
 cd Mask_RCNN
