@@ -1,4 +1,4 @@
-pip install opencv-python
+pip install opencv-python /n
 python
 import cv2 as cv
 print(cv.__Version__)
