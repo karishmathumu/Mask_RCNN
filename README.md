@@ -1,3 +1,7 @@
+Download:
+1. mask_rcnn_inception_v2_coco_2018_01_28.pbtxt
+2. mask_rcnn_inception_v2_coco_2018_01_28/frozen_inference_graph.pb
+
 pip install opencv-python
 python
 import cv2 as cv
